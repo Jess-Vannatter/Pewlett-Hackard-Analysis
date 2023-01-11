@@ -7,6 +7,7 @@
 
 ## Results
 1. Senior Engineering and Senior Staff positions will be impacted the most by the retiring wave in the upcoming years. These two positions make up over 70% of the retirment eligible employee's. You can see this below and in the [Retiring Titles Table](https://github.com/Jess-Vannatter/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) file.
+
 ![image](https://user-images.githubusercontent.com/117245167/211050173-b49cbde9-b177-43f8-96aa-a593df8c0ce9.png)
 
 2. I am not clear on what determines a "Senior" level Engineer or Staff memeber. But I would assume that the new Senior staff/ Engineer positions would be drawn from the current "Engineer' and "Staff" employee pools. Meaning that once the reitring Wave begins there will be a lot of new opeinings in these two positions (senior Engineer and Senior Staff) which would could be filld by promoting the current Engineering and Staff employee's in to those newly vacant roles. That would cause a need to hire new employees to then fill the Engineering and staff positions that were promoted to senior positions. There is also an opputubity to possibly promote some "Assistant Engineers" (if they qualify) to possible Engineering positions.  
